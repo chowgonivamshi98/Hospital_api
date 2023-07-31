@@ -6,7 +6,7 @@ Installation
 
 To run this application on your local machine, please follow these steps:
 
-Clone this repository using the following command: https://github.com/ayush2342/Hospital-API.git
+Clone this repository using the following command:https://github.com/chowgonivamshi98/Hospital_api.git
 
 Install the required dependencies using the following command: $ npm install
 
@@ -42,8 +42,8 @@ Positive-Admit]
 Routes:
 
 - /doctors/register → with username and password
-- /doctors/login → returns the JWT to be used
 - /patients/register
 - /patients/:id/create_report
 - /patients/:id/all_reports → List all the reports of a patient oldest to latest
 - /reports/:status → List all the reports of all the patients filtered by a specific status
+#Hosted_link:
