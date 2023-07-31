@@ -46,4 +46,4 @@ Routes:
 - /patients/:id/create_report
 - /patients/:id/all_reports → List all the reports of a patient oldest to latest
 - /reports/:status → List all the reports of all the patients filtered by a specific status
-#Hosted_link:
+# Hosted_link: https://hospital-api-m9w8.onrender.com
